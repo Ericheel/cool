@@ -1,6 +1,6 @@
 # cool
 
-##### 富文本替换指定字符串，似乎有用，先记下来
+##### 记录
 
     private void recursion(Page page) {
         LOGGER.debug("Replacing page " + (page == null ? "null" : page.getTitle()));
